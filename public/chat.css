@@ -1,0 +1,44 @@
+.box {
+  height: 700px;
+  max-width: 600px;
+  border: 10px solid;
+  margin: 20px auto;
+}
+
+.send-box {
+  position: absolute;
+  top: 650px;
+  margin-top: 15px;
+}
+
+.send-input {
+  height: 40px;
+  width: 480px;
+}
+
+.msgs-box {
+  height: 600px;
+  overflow-y: scroll;
+}
+.input-msg {
+  width: 300px;
+  background-color: #e5dcc3;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+  word-wrap: break-word;
+}
+
+.output-msg {
+  width: 300px;
+  margin-left: 35%;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+  background-color: #e5dcc3;
+  word-wrap: break-word;
+}
+
+.name {
+  color: #51050f;
+}

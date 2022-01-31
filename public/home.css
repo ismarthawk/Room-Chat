@@ -1,0 +1,10 @@
+form {
+  max-width: 600px;
+  margin: 100px auto;
+}
+
+button {
+  position: relative;
+  left: 70%;
+  width: 100px;
+}
